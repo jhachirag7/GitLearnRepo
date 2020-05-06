@@ -12,7 +12,7 @@ int main()
 	freopen("input.txt", "r", stdin);
 #endif
 	fastio
-	
+	cout<<"Hello";
 	return 0;
 }
 	
